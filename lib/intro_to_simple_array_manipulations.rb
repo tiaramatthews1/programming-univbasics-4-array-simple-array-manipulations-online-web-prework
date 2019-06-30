@@ -26,7 +26,7 @@ def using_concat(array, string)
   array.concat(string)
 end
 
-def using_insert(array, 4)
+def using_insert(array, 'python')
   array.insert(array, 'Python')
 end
 
