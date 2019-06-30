@@ -30,11 +30,11 @@ def using_insert(array, item)
   array.insert(4, 'Python')
 end
 
-def using_uniq(array)
+def using_uniq(array, string)
   array.uniq(haircuts)
 end
 
-def using_flatten(array, string)
+def using_flatten(array, )
   array.flatten(string)
 end
 
