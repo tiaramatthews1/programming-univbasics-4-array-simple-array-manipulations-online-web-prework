@@ -30,7 +30,7 @@ def using_insert(array, item)
   array.insert(4, 'Python')
 end
 
-def using_uniq(array, string)
+def using_uniq(array, item)
   array.uniq('haircuts')
 end
 
