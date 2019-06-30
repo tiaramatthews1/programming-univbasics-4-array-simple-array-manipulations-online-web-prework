@@ -31,7 +31,7 @@ def using_insert(array, item)
 end
 
 def using_uniq(array, string)
-  array.uniq(haircuts)
+  array.uniq('haircuts')
 end
 
 def using_flatten(array, )
