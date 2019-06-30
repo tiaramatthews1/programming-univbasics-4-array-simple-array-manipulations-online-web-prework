@@ -34,7 +34,7 @@ def using_uniq(array, item)
   array.uniq(array, 'Bob')
 end
 
-def using_flatten(array, )
+def using_flatten(array, instruments)
   array.flatten(string)
 end
 
