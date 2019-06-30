@@ -30,8 +30,8 @@ def using_insert(array, item)
   array.insert(4, 'Python')
 end
 
-def using_uniq(array, item)
-  array.uniq('haircuts')
+def using_uniq(array, string)
+  array.uniq(string)
 end
 
 def using_flatten(array, )
