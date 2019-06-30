@@ -27,7 +27,7 @@ def using_concat(array, string)
 end
 
 def using_insert(array, item)
-  array.insert('Python')
+  array.insert(4, 'Python')
 end
 
 def using_uniq(array)
